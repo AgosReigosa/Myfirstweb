@@ -11,14 +11,13 @@
 }
 
 .jumbotron {
-  background-image:url('https://lh6.googleusercontent.com/-le0xbyB8YWk/UrDT30UsRHI/AAAAAAAAAAk/S-j-nkW2Pxs/w1108-h769-no/fondo-blanco.gif');
-  height: 500px;
-  width: 100%;
+  background-image:url('http://na.leagueoflegends.com/sites/default/files/upload/art/2-1920_1200.jpg');
+  max-width:100%;
+  height: auto;
 }
 
 .jumbotron .container {
   position: relative;
-  top:100px;
 }
 
 .jumbotron h1 {
